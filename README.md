@@ -7,7 +7,7 @@ Um formulário de pedido com informações importantes para enviar por email.
 
 - [ ] Página login
 - [ ] Página register
-- [ ] Página pedido
+- [x] Página pedido
 - [ ] Identidade visual
 - [ ] Responsividade
   
