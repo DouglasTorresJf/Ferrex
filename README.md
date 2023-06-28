@@ -5,10 +5,24 @@ Um formulário de pedido com informações importantes para enviar por email.
 
 ### Tarefas
 
-- [ ] Identidade visual
 - [ ] Página login
 - [ ] Página register
 - [ ] Página pedido
+- [ ] Identidade visual
+  
+### Descrição de tarefas
+
+- Página login
+- Página register
+- Página pedido
+- Identidade visual
+
+### Gestão do projeto
+
+- [ ] feature/login: Página login
+- [ ] feature/register: Página register
+- [ ] feature/pedido: Página pedido
+- [ ] feature/identidade-visual: Identidade visual
 
 ### Tecnologias
 
