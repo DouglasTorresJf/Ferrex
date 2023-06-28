@@ -54,6 +54,10 @@ senha $ferrex729
 - Typescript
 - Tailwindcss
 
+### Instruções de como usar
+
+Como baixar, instalar as dependências e rodar o projeto na máquina local.
+
 ### Desenvolvedores
 
 - Douglas A. B. Novato - @douglasabnovato
