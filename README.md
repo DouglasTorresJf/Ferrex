@@ -35,6 +35,7 @@ senha $ferrex729
 #### Página pedido
 
 - preencher informações de pedido, enviar email, resposta de enviado.
+- ferramenta de disparo de emails, emailsJS.
 
 #### Identidade visual
 
@@ -59,6 +60,7 @@ senha $ferrex729
 - NextJS
 - Typescript
 - Tailwindcss
+- EmailJS
 
 ### Instruções de como usar
 
