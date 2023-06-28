@@ -15,6 +15,8 @@ Um formulário de pedido com informações importantes para enviar por email.
 
 #### Página login
 
+- email e senha para entrar.
+
 #### Página register
 
 Informações do primeiro cadastro
@@ -32,13 +34,18 @@ senha $ferrex729
 
 #### Página pedido
 
+- preencher informações de pedido, enviar email, resposta de enviado.
+- ferramenta de disparo de emails, emailsJS.
+
 #### Identidade visual
 
 - cores
 - logo
 - icon
 
-- Responsividade
+#### Responsividade
+
+- fluidez em smartphone e desktop.
 
 ### Gestão do projeto
 
@@ -53,6 +60,7 @@ senha $ferrex729
 - NextJS
 - Typescript
 - Tailwindcss
+- EmailJS
 
 ### Instruções de como usar
 
