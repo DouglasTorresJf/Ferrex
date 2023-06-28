@@ -9,6 +9,7 @@ Um formulário de pedido com informações importantes para enviar por email.
 - [ ] Página register
 - [ ] Página pedido
 - [ ] Identidade visual
+- [ ] Responsividade
   
 ### Descrição de tarefas
 
@@ -16,6 +17,7 @@ Um formulário de pedido com informações importantes para enviar por email.
 - Página register
 - Página pedido
 - Identidade visual
+- Responsividade
 
 ### Gestão do projeto
 
@@ -23,6 +25,7 @@ Um formulário de pedido com informações importantes para enviar por email.
 - [ ] feature/register: Página register
 - [ ] feature/pedido: Página pedido
 - [ ] feature/identidade-visual: Identidade visual
+- [ ] feature/responsividade: Responsividade
 
 ### Tecnologias
 
