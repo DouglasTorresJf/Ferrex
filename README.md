@@ -21,21 +21,11 @@ Um formulário de pedido com informações importantes para enviar por email.
 
 Informações do primeiro cadastro
 
-````
-email ferrex@ferrex.com.br
-cnpj 23. 212. 876/0001-58
-inscricao estadual 388.108.598.269
-razao social Ferrex Transporte Ltd
-nome fantasia Ferrex 
-endereco 1600 Amphitheatre Parkway, Mountain View, CA, Postal Code 94043
-telefone +1 734-332-6500
-senha $ferrex729
-````
-
 #### Página pedido
 
 - preencher informações de pedido, enviar email, resposta de enviado.
 - ferramenta de disparo de emails, emailsJS.
+- informações do primeiro cadastro
 
 #### Identidade visual
 
@@ -61,6 +51,35 @@ senha $ferrex729
 - Typescript
 - Tailwindcss
 - EmailJS
+
+
+### Telas da aplicação
+Estão na ordem do fluxo perfeito de uso.
+
+- Registrar
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-1.jpg" width="400px"> 
+</p> 
+
+- Entrar 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-2.jpg" width="400px"> 
+</p>  
+
+- Pedido de transporte
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-3.jpg" width="400px"> 
+</p>  
+
+- Pedido preenchido
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-4.jpg" width="400px"> 
+</p>
+
+- Pedido recebido  
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-5.jpg" height="400px"> 
+</p>  
 
 ### Instruções de como usar
 

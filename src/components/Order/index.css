@@ -1,3 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
 .container {
   min-height: 100vh;
   display: flex;
@@ -42,12 +52,12 @@
   border-radius: 4px;
   border: 0;
   cursor: pointer;
-  background-color: #0fdbff;
+  background-color: #22D511;
   font-size: 18px;
   transition: background-color, transform 0.8s;
 }
 
 .button:hover {
-  background-color: #0fe3ff;
+  background-color: #1BA10E;
   transform: scale(1.01);
 }
