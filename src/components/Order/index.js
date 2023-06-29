@@ -135,28 +135,28 @@ function Order() {
           type="text"
           placeholder="Data Embarque"
           onChange={(e) => setDataembarque(e.target.value)}
-          value={volumemerchandise}
+          value={dataembarque}
         />
         <input
           className="input"
           type="text"
           placeholder="Local Embarque"
           onChange={(e) => setLocalembarque(e.target.value)}
-          value={volumemerchandise}
+          value={localembarque}
         />
         <input
           className="input"
           type="text"
           placeholder="Data Desembarque"
           onChange={(e) => setDatadesembarque(e.target.value)}
-          value={volumemerchandise}
+          value={datadesembarque}
         />
         <input
           className="input"
           type="text"
           placeholder="Local Desembarque"
           onChange={(e) => setLocaldesembarque(e.target.value)}
-          value={volumemerchandise}
+          value={localdesembarque}
         />
         <h3 className="title">Documentos para anexar</h3>
 

@@ -52,6 +52,35 @@ Informações do primeiro cadastro
 - Tailwindcss
 - EmailJS
 
+
+### Telas da aplicação
+Estão na ordem do fluxo perfeito de uso.
+
+- Registrar
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-1.jpg" width="400px"> 
+</p> 
+
+- Entrar 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-2.jpg" width="400px"> 
+</p>  
+
+- Pedido de transporte
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-3.jpg" width="400px"> 
+</p>  
+
+- Pedido preenchido
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-4.jpg" width="400px"> 
+</p>
+
+- Pedido recebido  
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-5.jpg" width="400px"> 
+</p>  
+
 ### Instruções de como usar
 
 Como baixar, instalar as dependências e rodar o projeto na máquina local.
