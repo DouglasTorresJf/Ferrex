@@ -36,7 +36,7 @@ const Signup = () => {
 
   return (
     <C.Container>
-      <C.Label>SISTEMA DE LOGIN</C.Label>
+      <C.Label>Se registrar no Ferrex</C.Label>
       <C.Content>
         <Input
           type="email"
@@ -61,7 +61,7 @@ const Signup = () => {
         <C.LabelSignin>
           Já tem uma conta?
           <C.Strong>
-            <Link to="/">&nbsp;Entre</Link>
+            <Link to="/">&nbsp;Entrar</Link>
           </C.Strong>
         </C.LabelSignin>
       </C.Content>

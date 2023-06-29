@@ -5,8 +5,12 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 100vh;
+  height: 100%;
   gap: 20px;
+  padding-inline: 20px;
 `;
 
-export const Title = styled.h2``;
+export const Title = styled.h1`
+  padding-block-start: 20px;
+`;
+
