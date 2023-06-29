@@ -78,7 +78,7 @@ Estão na ordem do fluxo perfeito de uso.
 
 - Pedido recebido  
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-5.jpg" width="400px"> 
+  <img alt="ferrex" title="#ferrex" src="./.github/ferrex-5.jpg" height="400px"> 
 </p>  
 
 ### Instruções de como usar
